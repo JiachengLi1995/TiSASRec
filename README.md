@@ -30,5 +30,5 @@ The implemention of self attention is modified based on *[this](https://github.c
 
 ## Contact
 
-If you have any questions, please send me an [email](j9li@eng.ucsd.edu).
+If you have any questions, please send me an email (j9li@eng.ucsd.edu).
 
