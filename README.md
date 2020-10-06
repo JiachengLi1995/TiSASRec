@@ -10,6 +10,8 @@ Please cite our paper if you use the code or datasets.
 
 The code is tested under a Linux desktop (w/ GTX 1080 Ti GPU) with TensorFlow.
 
+For Pytorch version of TiSASRec, please refer to [repo](https://github.com/pmixer/TiSASRec.pytorch).
+
 ## Datasets
 
 This repo includes ml-1m dataset as an example.
